@@ -1,1 +1,10 @@
-site_name: My Docs
+site_url: https://simallygames.github.io/swiftframework/
+site_name: Swift Framework
+theme:
+  name: material
+
+nav:
+  - About: 'about.md'
+  - Getting Started: 'gettingstarted.md'
+  - Server:
+    - General: 'server/server.md'

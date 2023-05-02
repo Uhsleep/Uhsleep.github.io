@@ -1,0 +1,1 @@
+Visit the [Swift Framework GitHub](https://github.com/Uhsleep/Swift) and download the latest release
