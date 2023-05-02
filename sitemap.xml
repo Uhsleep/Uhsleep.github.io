@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+         <loc>https://simallygames.github.io/swiftframework/</loc>
+         <lastmod>2023-05-02</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://simallygames.github.io/swiftframework/about/</loc>
+         <lastmod>2023-05-02</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://simallygames.github.io/swiftframework/gettingstarted/</loc>
+         <lastmod>2023-05-02</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://simallygames.github.io/swiftframework/test/</loc>
+         <lastmod>2023-05-02</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://simallygames.github.io/swiftframework/server/</loc>
+         <lastmod>2023-05-02</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://simallygames.github.io/swiftframework/server/server/</loc>
+         <lastmod>2023-05-02</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+</urlset>
